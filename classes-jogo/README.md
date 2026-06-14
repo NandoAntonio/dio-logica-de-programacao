@@ -1,4 +1,4 @@
-# Desafio de Lógica - DIO
+# Desafio de Lógica - DIO (Criador de Classes do Heroi - Jogo)
 
 Resolução do desafio de lógica de programação proposto pela Digital Innovation One (DIO). Este é o meu primeiro repositório no GitHub, focado na aplicação prática de fundamentos de desenvolvimento e Programação Orientada a Objetos (POO).
 
